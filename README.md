@@ -94,7 +94,7 @@ A full-stack application for managing software access requests based on user rol
    ```
 5. Start server:
    ```bash
-   npm run dev
+   npm start
    ```
 
 ### 🖼️ Frontend
@@ -106,7 +106,7 @@ A full-stack application for managing software access requests based on user rol
    ```
 3. Start development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
    user-access-management/
@@ -132,9 +132,8 @@ A full-stack application for managing software access requests based on user rol
 │   ├── vite.config.ts (or webpack.config.js)
 │   └── package.json
 │
-├── README.md
-└── database/                 # Optional: SQL or migration scripts
-    └── init.sql
+└──README.md
+
 
 
 
